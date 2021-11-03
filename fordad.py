@@ -1,3 +1,7 @@
+"""
+App desenvolvido por Gustavo Paiva @Paivs github
+"""
+
 from tkinter import *
 from pytube import YouTube
 import glob, os
