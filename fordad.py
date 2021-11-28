@@ -4,7 +4,7 @@ App desenvolvido por Gustavo Paiva @Paivs github
 
 from tkinter import *
 from pytube import YouTube
-import glob, os
+import os
 
 def main():
     ca = os.path.dirname(os.path.abspath(__file__))
@@ -122,5 +122,6 @@ def main():
     #-----------------------------------------------------------------------------
 
     root.mainloop()
+    
 if __name__ == '__main__':
     main()
